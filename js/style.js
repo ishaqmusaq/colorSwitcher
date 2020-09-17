@@ -13,7 +13,7 @@ function switchGray() {
 function switchWhite() {
   document.getElementsByTagName('body')[0].style.backgroundColor = 'white'; 
   document.getElementsByTagName('body')[0].style.color = 'black'; 
-}
+} 
 
 function switchBlue() {
   document.getElementsByTagName('body')[0].style.backgroundColor = 'blue'; 
